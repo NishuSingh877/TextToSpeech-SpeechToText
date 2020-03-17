@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextToSpeech</string>
+    <string name="enter_your_word">Enter your word</string>
+    <string name="text_to_speech">Text To Speech</string>
+    <string name="speak">Speak</string>
+    <string name="speech_to_text">Speech To Text</string>
+    <string name="speak_something">Speak Something</string>
+    <string name="switch_to_stt">switch to stt</string>
+    <string name="switch_to_tts">switch to tts</string>
+</resources>
